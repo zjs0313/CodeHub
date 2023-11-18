@@ -1,0 +1,14 @@
+{
+	"belongTo": null,
+	"createdDate": "2023-11-18 07:23:07",
+	"custom": true,
+	"description": null,
+	"id": "004T0000018IzIYGrHRQ",
+	"label": "Connector2",
+	"lastModifiedDate": "2023-11-18 07:23:07",
+	"logo": null,
+	"name": "tenant1__Connector2",
+	"protectMode": 0,
+	"shareType": null,
+	"visibility": 0
+}
