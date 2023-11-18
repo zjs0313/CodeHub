@@ -1,0 +1,14 @@
+{
+	"belongTo": null,
+	"createdDate": "2023-11-18 07:42:14",
+	"custom": true,
+	"description": null,
+	"id": "004T0000018J0fBsuWvo",
+	"label": "ConnectAA",
+	"lastModifiedDate": "2023-11-18 07:42:14",
+	"logo": null,
+	"name": "tenant1__ConnectAA",
+	"protectMode": 0,
+	"shareType": null,
+	"visibility": 0
+}
