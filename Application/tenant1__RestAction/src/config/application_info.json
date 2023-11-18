@@ -1,0 +1,21 @@
+{
+	"active": true,
+	"belongTo": null,
+	"category": "",
+	"coreVersion": "1.3.11",
+	"createdDate": "2023-11-18 06:28:56",
+	"custom": true,
+	"defaultTabId.__objectType": "Tab",
+	"defaultTabId.name": "tenant1__RestAction_home",
+	"description": "",
+	"id": "000f0000018IvQUlIdNo",
+	"label": "RestAction",
+	"logo": "",
+	"name": "tenant1__RestAction",
+	"protectMode": 0,
+	"publishVersion": null,
+	"theme": null,
+	"type": "Custom Application",
+	"type.name": "Custom Application",
+	"visibility": 0
+}

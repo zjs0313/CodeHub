@@ -1,0 +1,17 @@
+{
+	"appId": "000f0000018IvQUlIdNo",
+	"appId.__objectType": "Application",
+	"appId.name": "tenant1__RestAction",
+	"belongTo": null,
+	"category": null,
+	"createdDate": "2023-11-18 06:29:50",
+	"custom": true,
+	"id": "003f0000018IvURYcjFQ",
+	"lastModifiedDate": "2023-11-18 06:29:50",
+	"name": "Logic",
+	"parent": null,
+	"protectMode": 0,
+	"seqNo": null,
+	"type": "Folder",
+	"visibility": 0
+}

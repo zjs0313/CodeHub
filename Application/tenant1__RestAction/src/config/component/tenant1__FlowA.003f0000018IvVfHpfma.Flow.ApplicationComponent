@@ -1,0 +1,19 @@
+{
+	"appId": "000f0000018IvQUlIdNo",
+	"appId.__objectType": "Application",
+	"appId.name": "tenant1__RestAction",
+	"belongTo": null,
+	"category": null,
+	"createdDate": "2023-11-18 06:30:06",
+	"custom": true,
+	"id": "003f0000018IvVfHpfma",
+	"lastModifiedDate": "2023-11-18 06:30:06",
+	"name": "tenant1__FlowA",
+	"parent": "003f0000018IvURYcjFQ",
+	"parent.__objectType": "ApplicationComponent",
+	"parent.name": "Logic",
+	"protectMode": 0,
+	"seqNo": null,
+	"type": "Flow",
+	"visibility": 0
+}
